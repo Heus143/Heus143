@@ -142,7 +142,7 @@ A simple task management application that helps users organize, track, and manag
 [www.linkedin.com/in/hemanthkumardivvela/](http://www.linkedin.com/in/hemanthkumardivvela/)
 
 🐙 **GitHub**
-github.com/Heus143
+[github.com/Heus143](https://github.com/Heus143/)
 
 📧 **Email**
 [kumardivvelaa@gmail.com](mailto:kumardivvelaa@gmail.com)
