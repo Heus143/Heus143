@@ -1,100 +1,200 @@
-<div align="center">
+# 👋 Hi, I'm **Hemanth Kumar Divvela**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Professional profile of DIVVELA HEMANTH KUMAR, Aspiring Data Analyst, with a focus on data analysis, Python and selected projects." width="100%">
-</picture>
+### 💻 Python Full Stack Developer | 🤖 Generative AI Enthusiast | 🚀 Aspiring Software Engineer
 
-</div>
+Welcome to my GitHub! I'm a passionate **Python Full Stack Developer** with a strong interest in building scalable web applications and AI-powered solutions. I recently graduated with a **Bachelor of Technology in Information Technology** and enjoy transforming ideas into practical, real-world software.
 
-## Hello, I'm Divvela Hemanth Kumar 👋
+I'm continuously expanding my knowledge in **Full Stack Development, Generative AI, and Machine Learning**, while building projects that solve meaningful problems.
 
-I'm an **Aspiring Data Analyst** and a B.Tech graduate in Information Technology. I enjoy working with data, exploring patterns, and building practical applications with Python and web technologies.
 
-- 📍 Based in Hyderabad, Telangana
-- 🎓 B.Tech · Information Technology — Bapatla Engineering College
-- 💼 Data Science Intern at Coding Rajas Technologies (May 2024 – Jul 2024)
-- 🔎 Interested in data analysis, data preparation, exploratory analysis and practical machine-learning applications.
 
-## Focus Areas
+# 🙋 About Me
 
-- **Data analysis:** cleaning, preprocessing and exploratory data analysis
-- **Python ecosystem:** Python, Pandas and NumPy
-- **Databases:** MySQL, MongoDB and DBMS fundamentals
-- **Application development:** Flask, JavaScript, HTML and CSS
-- **Productivity & AI tools:** Microsoft Office, Generative AI and prompt engineering
+* 👨 **Name:** Hemanth Kumar Divvela
+* 🎓 **Education:** B.Tech in Information Technology (2021–2025)
+* 📍 **Location:** Hyderabad, Telangana, India
+* 💻 **Role:** Python Full Stack Developer
+* 🤖 **Interests:** Generative AI, Machine Learning & Web Development
+* 🌱 **Currently Learning:** Python Full Stack with Generative AI & DSA
+* 🎯 **Career Goal:** Software Engineer
 
-## Experience
 
-### Data Science Intern · Coding Rajas Technologies
-*May 2024 – July 2024 · Virtual*
 
-- Analyzed **8,154 Netflix records** using Python, Pandas and NumPy.
-- Worked on data cleaning, preprocessing and exploratory data analysis.
-- Developed a movie recommendation system using TF-IDF and cosine similarity.
-- Built a credit-card fraud detection model using the Random Forest classification algorithm.
+# 🎯 Career Objective
 
-## Featured Projects
+I am an enthusiastic software developer seeking opportunities to build innovative, scalable, and user-centric applications. My goal is to contribute to impactful software projects while continuously learning modern technologies and growing as a Full Stack Software Engineer.
 
-### Employee Management System
-*Python · Flask · MongoDB · HTML · CSS · JavaScript*
 
-- Built a web application to enter, view, update and delete employee records.
-- Connected Flask with MongoDB for employee data storage and retrieval.
-- Added employee report generation in Excel and PDF formats.
 
-### AI-Integrated Online Assessment Platform
-*React.js · JavaScript · Node.js · MongoDB · Python*
+# 💼 Internship Experience
 
-- Developed a web platform for conducting online assessments.
-- Implemented user authentication, exam scheduling and question management.
-- Integrated REST APIs with MongoDB and displayed results with feedback after submission.
+## 🏢 Data Science Intern — Coding Rajas Technologies
 
-### Movie Recommendation System
-*Python · TF-IDF · Cosine Similarity*
+During my internship, I gained practical experience in **Machine Learning** and **Data Analysis** using Python.
 
-- Created a recommendation system to suggest movies and TV shows with similar content.
+### Key Responsibilities
 
-### Credit Card Fraud Detection
-*Python · Random Forest*
+* 📊 Performed Exploratory Data Analysis (EDA)
+* 🐍 Worked with Python, Pandas, and NumPy
+* 🤖 Assisted in Machine Learning model development
+* 📈 Cleaned, transformed, and analyzed datasets
+* 🤝 Collaborated with the development team on real-world projects
 
-- Built a classification model to identify potentially suspicious transactions.
 
-## Technical Stack
 
-| Area | Technologies |
-|---|---|
-| Programming | Python, JavaScript |
-| Data analysis | Pandas, NumPy |
-| Databases | MySQL, MongoDB, DBMS |
-| Web | Flask, HTML, CSS, React.js, Node.js |
-| Productivity | Microsoft Excel, Word, PowerPoint, Outlook |
-| AI tools | Generative AI, Prompt Engineering, ChatGPT, Claude AI |
-| Documentation | Data Entry, Document Editing |
+# 🚀 Featured Projects
 
-## Education
+## 🤖 AI-Integrated Online Assessment Platform
 
-- **Bapatla Engineering College** — B.Tech, Information Technology (2021–2025) · CGPA: 6.8
-- **Narayana Junior College** — Intermediate (2019–2021) · 83.6%
-- **Bhashyam High School** — SSC (2018–2019) · CGPA: 8.7
+An AI-powered online examination platform that simplifies digital assessments for educational institutions.
 
-## Certifications
+### Highlights
 
-- Deloitte — Data Analytics Job Simulation Certificate (March 2026)
-- TCS — GenAI Powered Data Analytics Job Simulation Certificate (March 2026)
-- Coding Rajas Technologies — Data Science Internship Certificate (May–July 2024)
-- IBM SkillsBuild — Prompt Engineering for Everyone (November 2024)
+* 🔐 Secure role-based authentication
+* 🤖 AI-powered question generation
+* 📝 Online examination management
+* 📊 Student & Teacher dashboards
+* 📈 Result management system
+* 📱 Responsive user interface
 
-## Connect
+**Tech Stack**
 
-- **GitHub:** [Heus143](https://github.com/Heus143)
-- **LinkedIn:** [hemanthkumardivvela](https://linkedin.com/in/hemanthkumardivvela)
-- **Portfolio:** [Visit portfolio](https://hemanthportfolio-be47.onrender.com)
-- **Email:** [hemanthkumardivvela@gmail.com](mailto:hemanthkumardivvela@gmail.com)
+React.js • Node.js • Express.js • MongoDB • JavaScript • JWT • OpenAI API
+
+
+## 👨‍💼 Employee Management System
+
+A web-based employee management application developed using Flask and MongoDB.
+
+### Highlights
+
+* 👨 Employee CRUD operations
+* 🔐 Secure authentication
+* 📊 Dashboard analytics
+* 📄 PDF report generation
+* 📑 Excel export functionality
+* 🔗 REST API integration
+
+**Tech Stack**
+
+Python • Flask • MongoDB • HTML • CSS • JavaScript • Pandas • PyMongo
+
+
+
+## 📱 QR Code Generator
+
+A lightweight web application that generates QR codes instantly for URLs and text with a clean and responsive interface.
+
+
+
+## ✅ To-Do List Application
+
+A simple task management application that helps users organize, track, and manage their daily activities efficiently.
+
+
+# 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+* 🐍 Python
+* 🌐 JavaScript
+* 🧱 HTML5
+* 🎨 CSS3
+
+### ⚙️ Frameworks & Technologies
+
+* ⚛️ React.js
+* 🌶️ Flask
+* 🟢 Node.js
+* 🚂 Express.js
+
+### 🗄️ Databases
+
+* 🍃 MongoDB Atlas
+* 🐬 SQL
+
+### 🤖 AI & Machine Learning
+
+* 🤖 Generative AI
+* 🧠 Machine Learning
+* 💬 OpenAI API
+* 📊 Scikit-learn
+
+### 📚 Libraries
+
+* 📈 Pandas
+* 🔢 NumPy
+* 🍃 PyMongo
+
+### 🔧 Tools
+
+* Git
+* GitHub
+* VS Code
+* Render
+* Vercel
+
+
+
+# 🌐 Connect With Me
+
+💼 **LinkedIn**
+[www.linkedin.com/in/hemanthkumardivvela/](http://www.linkedin.com/in/hemanthkumardivvela/)
+
+🐙 **GitHub**
+[github.com/Heus143](https://github.com/Heus143/)
+
+📧 **Email**
+[kumardivvelaa@gmail.com](mailto:kumardivvelaa@gmail.com)
+
+📍 **Location**
+Hyderabad, Telangana, India
+
+
+
+# 📚 Currently Learning
+
+* 🤖 Generative AI
+* 🐍 Advanced Python
+* ⚛️ React.js
+* ☁️ Cloud Deployment
+* 📚 Data Structures & Algorithms
+
+
+# 🎯 Goals
+
+* 🚀 Become a Software Engineer
+* 🤖 Build AI-powered applications
+* 💻 Master Full Stack Development
+* 🌍 Contribute to Open Source
+* ☁️ Learn Cloud & DevOps
+* 📈 Improve Problem-Solving Skills
+
+
+# 💡 Interests
+
+* 🤖 Artificial Intelligence
+* 💻 Full Stack Development
+* 📊 Machine Learning
+* ☁️ Cloud Computing
+* 🌐 Open Source
+* 📚 Continuous Learning
+
+
+
+# ⚡ Fun Fact
+
+> *"Every project is an opportunity to learn something new. I enjoy building software that solves real-world problems and continuously improving my skills as a developer."*
 
 ---
 
-<div align="center">
-  <sub>Thanks for visiting my profile.</sub>
-</div>
+# ⭐ Thanks for Visiting
+
+Thank you for visiting my GitHub profile!
+
+If you find my projects interesting or helpful:
+
+* ⭐ Star my repositories
+* 🤝 Connect with me on LinkedIn
+* 💬 Collaborate on exciting projects
+* 🚀 Let's build something amazing together!
