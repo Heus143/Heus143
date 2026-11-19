@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1180" height="610" viewBox="0 0 1180 610" role="img"
+     aria-label="Professional profile for DIVVELA HEMANTH KUMAR, Aspiring Data Analyst, focused on data analysis and Python.">
+  <title>DIVVELA HEMANTH KUMAR — Aspiring Data Analyst</title>
+  <desc>Terminal-inspired professional profile with an abstract data visualization, profile details, selected technologies and projects.</desc>
+  <defs>
+      <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+        <path d="M32 0H0V32" fill="none" stroke="#D7E2F0" stroke-width="0.7" opacity=".45"/>
+      </pattern>
+      <radialGradient id="wash" cx="18%" cy="8%" r="90%">
+        <stop offset="0" stop-color="#6550D8" stop-opacity=".11"/>
+        <stop offset=".55" stop-color="#087FA5" stop-opacity=".06"/>
+        <stop offset="1" stop-color="#F4F8FE" stop-opacity="0"/>
+      </radialGradient>
+      <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#6550D8"/>
+        <stop offset=".52" stop-color="#087FA5"/>
+        <stop offset="1" stop-color="#15966A"/>
+      </linearGradient>
+      <linearGradient id="panelGlow" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#087FA5" stop-opacity=".18"/>
+        <stop offset=".5" stop-color="#6550D8" stop-opacity=".08"/>
+        <stop offset="1" stop-color="#15966A" stop-opacity=".13"/>
+      </linearGradient>
+      <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+        <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+        <feOffset dy="5"/>
+        <feComponentTransfer><feFuncA type="linear" slope=".18"/></feComponentTransfer>
+        <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+    </defs>
+  <rect width="1180" height="610" rx="24" fill="#F4F8FE"/>
+  <rect width="1180" height="610" rx="24" fill="url(#wash)"/>
+  <rect width="1180" height="610" rx="24" fill="url(#grid)" opacity=".42"/>
+  <circle cx="1040" cy="75" r="180" fill="#087FA5" opacity=".045">
+    <animate attributeName="r" values="170;190;170" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="#D7E2F0" stroke-width="1.5"/>
+  <!-- Terminal chrome -->
+  <rect x="22" y="20" width="1136" height="42" rx="11" fill="#FFFFFF" stroke="#D7E2F0"/>
+  <circle cx="43" cy="41" r="5" fill="#FF6B6B"/>
+  <circle cx="61" cy="41" r="5" fill="#F5C451"/>
+  <circle cx="79" cy="41" r="5" fill="#43C98B"/>
+  <text x="590" y="46" text-anchor="middle" class="chrome">developer@profile:~ / README.md</text>
+  <rect x="1044" y="30" width="92" height="21" rx="10.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+  <circle cx="1058" cy="40.5" r="3.2" fill="#15966A"/>
+  <text x="1068" y="44.5" class="status">PROFILE</text>
+
+  <!-- Left visual identity panel -->
+  <rect x="22" y="78" width="474" height="510" rx="18" fill="#FFFFFF" fill-opacity=".88" stroke="#D7E2F0" filter="url(#shadow)"/>
+  <rect x="22" y="78" width="474" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="52" y="112" class="section">VISUAL.MAP</text>
+  <text x="465" y="112" text-anchor="end" class="micro">DATA / SIGNAL / INSIGHT</text>
+  <rect x="58" y="132" width="402" height="268" rx="15" fill="#F7FAFF" stroke="#D7E2F0"/>
+  <rect x="58" y="132" width="402" height="268" rx="15" fill="url(#panelGlow)" opacity=".55"/>
+  <path d="M78 166H440 M78 366H440" stroke="#D7E2F0" stroke-dasharray="2 5" opacity=".7"/>
+  <g><circle cx="112" cy="174" r="1.6" fill="#6550D8" opacity="0.24"/>
+<circle cx="146" cy="174" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="180" cy="174" r="2.2" fill="#087FA5" opacity="0.68"/>
+<circle cx="197" cy="174" r="2.2" fill="#087FA5" opacity="0.68"/>
+<circle cx="231" cy="174" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="248" cy="174" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="282" cy="174" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="299" cy="174" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="112" cy="191" r="2.2" fill="#087FA5" opacity="0.35"/>
+<circle cx="129" cy="191" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="163" cy="191" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="180" cy="191" r="2.2" fill="#087FA5" opacity="0.68"/>
+<circle cx="231" cy="191" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="248" cy="191" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="282" cy="191" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="299" cy="191" r="1.6" fill="#6550D8" opacity="0.57"/>
+<circle cx="129" cy="208" r="2.2" fill="#6550D8" opacity="0.68"/>
+<circle cx="146" cy="208" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="163" cy="208" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="214" cy="208" r="2.2" fill="#087FA5" opacity="0.35"/>
+<circle cx="231" cy="208" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="248" cy="208" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="299" cy="208" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="112" cy="225" r="2.2" fill="#6550D8" opacity="0.68"/>
+<circle cx="129" cy="225" r="2.2" fill="#087FA5" opacity="0.35"/>
+<circle cx="180" cy="225" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="197" cy="225" r="2.2" fill="#087FA5" opacity="0.68"/>
+<circle cx="214" cy="225" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="231" cy="225" r="2.2" fill="#087FA5" opacity="0.68"/>
+<circle cx="248" cy="225" r="2.2" fill="#087FA5" opacity="0.35"/>
+<circle cx="265" cy="225" r="2.9" fill="#6550D8" opacity="0.46"/>
+<circle cx="129" cy="242" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="146" cy="242" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="163" cy="242" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="180" cy="242" r="2.2" fill="#087FA5" opacity="0.35"/>
+<circle cx="197" cy="242" r="2.9" fill="#6550D8" opacity="0.79"/>
+<circle cx="214" cy="242" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="231" cy="242" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="248" cy="242" r="1.6" fill="#6550D8" opacity="0.57"/>
+<circle cx="265" cy="242" r="2.2" fill="#087FA5" opacity="0.35"/>
+<circle cx="282" cy="242" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="299" cy="242" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="112" cy="259" r="2.2" fill="#087FA5" opacity="0.35"/>
+<circle cx="129" cy="259" r="1.6" fill="#6550D8" opacity="0.24"/>
+<circle cx="163" cy="259" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="180" cy="259" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="197" cy="259" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="214" cy="259" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="231" cy="259" r="2.9" fill="#6550D8" opacity="0.46"/>
+<circle cx="248" cy="259" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="265" cy="259" r="2.2" fill="#087FA5" opacity="0.68"/>
+<circle cx="282" cy="259" r="1.6" fill="#6550D8" opacity="0.57"/>
+<circle cx="299" cy="259" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="112" cy="276" r="2.9" fill="#6550D8" opacity="0.46"/>
+<circle cx="129" cy="276" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="146" cy="276" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="231" cy="276" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="248" cy="276" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="265" cy="276" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="282" cy="276" r="2.2" fill="#087FA5" opacity="0.35"/>
+<circle cx="146" cy="293" r="2.2" fill="#6550D8" opacity="0.68"/>
+<circle cx="163" cy="293" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="180" cy="293" r="2.2" fill="#087FA5" opacity="0.68"/>
+<circle cx="231" cy="293" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="248" cy="293" r="2.9" fill="#6550D8" opacity="0.79"/>
+<circle cx="265" cy="293" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="112" cy="310" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="129" cy="310" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="180" cy="310" r="2.2" fill="#6550D8" opacity="0.68"/>
+<circle cx="197" cy="310" r="2.2" fill="#087FA5" opacity="0.68"/>
+<circle cx="231" cy="310" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="248" cy="310" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="265" cy="310" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="299" cy="310" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="146" cy="327" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="197" cy="327" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="248" cy="327" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="299" cy="327" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="112" cy="344" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="129" cy="344" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="163" cy="344" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="197" cy="344" r="1.6" fill="#6550D8" opacity="0.24"/>
+<circle cx="214" cy="344" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="248" cy="344" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="282" cy="344" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="299" cy="344" r="2.2" fill="#6550D8" opacity="0.68"/>
+<circle cx="112" cy="361" r="1.6" fill="#087FA5" opacity="0.57"/>
+<circle cx="146" cy="361" r="1.6" fill="#087FA5" opacity="0.24"/>
+<circle cx="180" cy="361" r="2.2" fill="#6550D8" opacity="0.35"/>
+<circle cx="214" cy="361" r="2.9" fill="#087FA5" opacity="0.46"/>
+<circle cx="248" cy="361" r="2.9" fill="#087FA5" opacity="0.79"/>
+<circle cx="282" cy="361" r="1.6" fill="#6550D8" opacity="0.24"/>
+    <circle cx="263" cy="266" r="93" fill="none" stroke="#087FA5" stroke-opacity=".28" stroke-dasharray="2 7">
+      <animateTransform attributeName="transform" type="rotate" from="0 263 266" to="360 263 266" dur="42s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="263" cy="266" r="118" fill="none" stroke="#6550D8" stroke-opacity=".22" stroke-dasharray="1 9">
+      <animateTransform attributeName="transform" type="rotate" from="360 263 266" to="0 263 266" dur="58s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <path d="M82 335 C145 305 173 348 226 312 S325 284 435 318" fill="none" stroke="url(#accent)" stroke-width="1.8" opacity=".85">
+    <animate attributeName="stroke-dashoffset" values="0;80" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <text x="78" y="386" class="micro">SIGNAL FIELD / 001</text>
+  <text x="52" y="442" class="identity">Aspiring Data Analyst</text>
+  <text x="52" y="470" class="tagline">Turning data into clear, useful insight.</text>
+  <path d="M52 495H466" stroke="#D7E2F0"/>
+  <text x="52" y="526" class="prompt">~/profile $</text>
+  <text x="151" y="526" class="command">analyze --clean --learn</text>
+  <rect x="151" y="535" width="7" height="14" rx="1" fill="#087FA5">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="52" y="565" class="micro">ENGINEERING · ANALYTICS · CONTINUOUS LEARNING</text>
+
+  <!-- Right system panel -->
+  <rect x="514" y="78" width="644" height="510" rx="18" fill="#FFFFFF" fill-opacity=".91" stroke="#D7E2F0" filter="url(#shadow)"/>
+  <rect x="514" y="78" width="644" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="548" y="112" class="section">SYSTEM.INFO</text>
+  <text x="1124" y="112" text-anchor="end" class="micro">./profile.sh</text>
+  <text x="548" y="151" class="prompt">hemanth@profile:~$</text>
+  <text x="700" y="151" class="command">cat identity.json</text>
+  
+          <text x="548" y="206" class="label">IDENTITY</text>
+          <text x="700" y="206" class="value">DIVVELA HEMANTH KUMAR</text>
+          <path d="M548 219H1108" stroke="#D7E2F0" stroke-width="1" opacity=".72"/>
+        
+          <text x="548" y="248" class="label">ROLE</text>
+          <text x="700" y="248" class="value">Aspiring Data Analyst</text>
+          <path d="M548 261H1108" stroke="#D7E2F0" stroke-width="1" opacity=".72"/>
+        
+          <text x="548" y="290" class="label">EDUCATION</text>
+          <text x="700" y="290" class="value">B.Tech · Information Technology</text>
+          <path d="M548 303H1108" stroke="#D7E2F0" stroke-width="1" opacity=".72"/>
+        
+          <text x="548" y="332" class="label">EXPERIENCE</text>
+          <text x="700" y="332" class="value">Data Science Intern · Coding Rajas</text>
+          <path d="M548 345H1108" stroke="#D7E2F0" stroke-width="1" opacity=".72"/>
+        
+          <text x="548" y="374" class="label">LOCATION</text>
+          <text x="700" y="374" class="value">Hyderabad, Telangana</text>
+          <path d="M548 387H1108" stroke="#D7E2F0" stroke-width="1" opacity=".72"/>
+        
+          <text x="548" y="416" class="label">FOCUS</text>
+          <text x="700" y="416" class="value">Analysis · Python · Machine Learning</text>
+          <path d="M548 429H1108" stroke="#D7E2F0" stroke-width="1" opacity=".72"/>
+        
+  <text x="548" y="374" class="section">SELECTED WORK</text>
+  
+          <text x="548" y="390" class="num">01</text>
+          <text x="580" y="390" class="project">Employee Management System</text>
+          <text x="580" y="407" class="small">Flask + MongoDB · CRUD and reports</text>
+        
+          <text x="548" y="432" class="num">02</text>
+          <text x="580" y="432" class="project">AI-Integrated Assessment Platform</text>
+          <text x="580" y="449" class="small">React + Node.js · Online assessments</text>
+        
+          <text x="548" y="474" class="num">03</text>
+          <text x="580" y="474" class="project">Movie Recommendation System</text>
+          <text x="580" y="491" class="small">Python · TF-IDF + cosine similarity</text>
+        
+  <text x="548" y="505" class="section">CORE STACK</text>
+  
+          <rect x="548" y="495" width="72" height="25" rx="12.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+          <circle cx="560" cy="507.5" r="3" fill="#087FA5"/>
+          <text x="569" y="512" class="pill">Python</text>
+        
+          <rect x="629" y="495" width="72" height="25" rx="12.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+          <circle cx="641" cy="507.5" r="3" fill="#087FA5"/>
+          <text x="650" y="512" class="pill">Pandas</text>
+        
+          <rect x="710" y="495" width="64" height="25" rx="12.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+          <circle cx="722" cy="507.5" r="3" fill="#087FA5"/>
+          <text x="731" y="512" class="pill">NumPy</text>
+        
+          <rect x="783" y="495" width="64" height="25" rx="12.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+          <circle cx="795" cy="507.5" r="3" fill="#087FA5"/>
+          <text x="804" y="512" class="pill">MySQL</text>
+        
+          <rect x="856" y="495" width="80" height="25" rx="12.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+          <circle cx="868" cy="507.5" r="3" fill="#087FA5"/>
+          <text x="877" y="512" class="pill">MongoDB</text>
+        
+          <rect x="945" y="495" width="64" height="25" rx="12.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+          <circle cx="957" cy="507.5" r="3" fill="#087FA5"/>
+          <text x="966" y="512" class="pill">Flask</text>
+        
+          <rect x="548" y="529" width="104" height="25" rx="12.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+          <circle cx="560" cy="541.5" r="3" fill="#087FA5"/>
+          <text x="569" y="546" class="pill">JavaScript</text>
+        
+          <rect x="661" y="529" width="64" height="25" rx="12.5" fill="#E8F1FC" stroke="#D7E2F0"/>
+          <circle cx="673" cy="541.5" r="3" fill="#087FA5"/>
+          <text x="682" y="546" class="pill">Excel</text>
+        
+  <text x="1124" y="570" text-anchor="end" class="micro">GITHUB PROFILE / LIGHT INTERFACE</text>
+
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .chrome { fill:#5C6D84; font-size:12px; letter-spacing:.4px; }
+    .status { fill:#10213A; font-size:9px; letter-spacing:1px; }
+    .section { fill:#087FA5; font-size:11px; font-weight:700; letter-spacing:2px; }
+    .micro { fill:#5C6D84; font-size:8px; letter-spacing:1.2px; }
+    .identity { fill:#10213A; font-family: ui-sans-serif, system-ui, sans-serif; font-size:27px; font-weight:750; letter-spacing:-.8px; }
+    .tagline { fill:#5C6D84; font-family: ui-sans-serif, system-ui, sans-serif; font-size:14px; }
+    .prompt { fill:#15966A; font-size:11px; }
+    .command { fill:#10213A; font-size:11px; }
+    .label { fill:#5C6D84; font-size:9px; letter-spacing:1.1px; font-weight:700; }
+    .value { fill:#10213A; font-size:12px; }
+    .num { fill:#087FA5; font-size:10px; }
+    .project { fill:#10213A; font-size:11px; font-weight:700; }
+    .small { fill:#5C6D84; font-size:9px; }
+    .pill { fill:#10213A; font-size:9px; }
+  </style>
+</svg>
